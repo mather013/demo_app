@@ -1,4 +1,5 @@
 #require 'sidekiq/testing'
+
 require 'simplecov'
 SimpleCov.start 'rails'
 include RSpec::Core::Let::ExampleGroupMethods
