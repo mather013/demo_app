@@ -9,6 +9,7 @@ gem 'rails', '3.2.8'
 gem 'sqlite3'
 gem 'pg'
 gem 'therubyracer'
+gem 'bootstrap-sass'
 
 #end
 
